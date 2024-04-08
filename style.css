@@ -200,7 +200,7 @@ p {
 
 /* Hero Section */
 #hero {
-	background-image: url(https://github.com/Sudeepdeve/Biodata/blob/master/hero-bg.png?raw=true);
+	background-image: url(./img/hero-bg.png);
 	background-size: cover;
 	background-position: top center;
 	position: relative;
@@ -295,6 +295,7 @@ p {
 	background-size: cover;
 	margin: 10px 5%;
 	position: relative;
+    height: 600px;
 	z-index: 1;
 	overflow: hidden;
 }
